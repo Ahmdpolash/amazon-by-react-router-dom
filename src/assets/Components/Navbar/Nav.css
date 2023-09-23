@@ -1,0 +1,11 @@
+nav a.active {
+  color: red;
+  background: rgb(7, 239, 7);
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.logo img {
+  width: 160px;
+  height: auto;
+}
